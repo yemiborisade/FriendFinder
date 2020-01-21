@@ -1,6 +1,6 @@
 var myFriends = [{
     "name":"Will",
-    "photo":"https://www.bing.com/th?id=OIP.2bXqVALWQ7G5spSMGI0J0AHaHP&pid=Api&rs=1",
+    "pic":"https://www.bing.com/th?id=OIP.2bXqVALWQ7G5spSMGI0J0AHaHP&pid=Api&rs=1",
     "scores":[
         1,
         4,
@@ -15,7 +15,7 @@ var myFriends = [{
       ]
   },{
     "name":"Carlton",
-    "photo":"https://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr05/30/14/original-15710-1383157662-6.jpg",
+    "pic":"https://img.buzzfeed.com/buzzfeed-static/static/2013-10/enhanced/webdr05/30/14/original-15710-1383157662-6.jpg",
     "scores":[
         5,
         1,
@@ -30,7 +30,7 @@ var myFriends = [{
       ]
   },{
     "name":"Jazz",
-    "photo":"https://img.buzzfeed.com/buzzfeed-static/static/2014-10/20/12/enhanced/webdr09/grid-cell-5833-1413823781-10.jpg",
+    "pic":"https://img.buzzfeed.com/buzzfeed-static/static/2014-10/20/12/enhanced/webdr09/grid-cell-5833-1413823781-10.jpg",
     "scores":[
         5,
         4,
@@ -45,7 +45,7 @@ var myFriends = [{
       ]
   },{
     "name":"Uncle Phil",
-    "photo":"http://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/01/unclephil.jpg",
+    "pic":"http://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/01/unclephil.jpg",
     "scores":[
         2,
         4,
@@ -60,7 +60,7 @@ var myFriends = [{
       ]
   },{
     "name":"Ashley",
-    "photo":"http://www.largeup.com/wp-content/uploads/2014/10/tatyana-ali-ashley-banks-fresh-prince.jpg",
+    "pic":"http://www.largeup.com/wp-content/uploads/2014/10/tatyana-ali-ashley-banks-fresh-prince.jpg",
     "scores":[
         1,
         3,
